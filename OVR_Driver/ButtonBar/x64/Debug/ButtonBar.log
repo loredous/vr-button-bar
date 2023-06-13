@@ -1,0 +1,6 @@
+﻿  controller_device_driver.cpp
+  device_provider.cpp
+  hmd_driver_factory.cpp
+  Generating Code...
+     Creating library C:\Users\lored\source\repos\ButtonBar\x64\Debug\driver_buttonbar.lib and object C:\Users\lored\source\repos\ButtonBar\x64\Debug\driver_buttonbar.exp
+  ButtonBar.vcxproj -> C:\Users\lored\source\repos\ButtonBar\x64\Debug\driver_buttonbar.dll

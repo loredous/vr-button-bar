@@ -1,0 +1,55 @@
+{
+	"jsonid": "input_profile",
+	"controller_type": "buttonbar",
+	"legacy_binding": "{buttonbar}/input/legacy_bindings_buttonbar.json",
+	"input_bindingui_mode": "single_device",
+	"input_bindingui_right": {
+		"image": "{buttonbar}/icons/sample_controller.svg"
+	},
+	"should_show_binding_errors": true,
+	"input_source": {
+		"/input/a": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 1
+		},
+		"/input/b": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 2
+		},
+		"/input/x": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 3
+		},
+		"/input/y": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 4
+		},
+		"/input/start": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 5
+		},
+		"/input/back": {
+			"binding_image_point": [ 250, 60 ],
+			"type": "button",
+			"touch": false,
+			"click": true,
+			"order": 6
+		}
+	},
+	"default_bindings": []
+}

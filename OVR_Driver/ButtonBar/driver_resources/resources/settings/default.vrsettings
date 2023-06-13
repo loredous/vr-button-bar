@@ -1,0 +1,9 @@
+{
+  "driver_buttonbar": {
+    "enable": true,
+    "mycontroller_model_number": "MyControllerModelNumber 1"
+  },
+  "driver_buttonbar_controller": {
+    "mycontroller_serial_number": "TheOnlyButtonBarAround"
+  }
+}

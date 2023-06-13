@@ -1,0 +1,75 @@
+{
+  "bindings": {
+    "/actions/legacy": {
+      "haptics": [
+      ],
+      "poses": [
+      ],
+      "sources": [
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/a"
+        },
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/b"
+        },
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/x"
+        },
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/y"
+        },
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/start"
+        },
+        {
+          "inputs": {
+            "click": {
+              "output": "/actions/legacy/in/left_system_press"
+            }
+          },
+          "mode": "button",
+          "path": "/user/buttonbar/input/back"
+        }
+      ]
+    }
+  },
+  "category": "legacy",
+  "controller_type": "generic",
+  "description": "Legacy mapping for buttonbar",
+  "name": "Legacy_Binding_ButtonBar",
+  "options": {
+    "mirror_actions": false,
+    "returnBindingsWithLeftHand": true,
+    "simulated_controller_type": "none"
+  }
+}

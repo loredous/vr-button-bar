@@ -1,0 +1,7 @@
+﻿  controller_device_driver.cpp
+     Creating library C:\Users\lored\source\repos\ButtonBar\x64\Release\driver_buttonbar.lib and object C:\Users\lored\source\repos\ButtonBar\x64\Release\driver_buttonbar.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 386 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ButtonBar.vcxproj -> C:\Users\lored\source\repos\ButtonBar\x64\Release\driver_buttonbar.dll
